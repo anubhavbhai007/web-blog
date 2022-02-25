@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Tommy",
+      "address": "Japan",
+      "email": "tom@gmail.com",
+      "contact": "83786646476",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "james@gmail.com",
+      "contact": "9484785787",
+      "address": "France",
+      "id": 3,
+      "blog": "kmklmkm"
+    },
+    {
+      "name": "hhj",
+      "email": "gffgfg",
+      "contact": "908098",
+      "address": "jbj,nh",
+      "id": 5
+    },
+    {
+      "name": "Anubhvr",
+      "email": "kjjkgtcx!@ji.b9j",
+      "contact": "9878665765",
+      "address": "mbjhgvhfghtedy5",
+      "id": 6
+    },
+    {
+      "name": "mkk",
+      "email": "frds",
+      "contact": "",
+      "blog": "fh",
+      "id": 7
+    }
+  ]
+}
