@@ -115,11 +115,9 @@ const Home = () => {
                     {user.name}
                   </StyledTableCell>
                   <StyledTableCell align="center">{user.email}</StyledTableCell>
-                  {/* <StyledTableCell align="center">
-                    {user.contact}
-                  </StyledTableCell> */}
+                  
                   <StyledTableCell align="center">
-                    {user.address}
+                    {user.blog}
                   </StyledTableCell>
                   <StyledTableCell align="center">
                     <div className={buttonStyles.root}>
